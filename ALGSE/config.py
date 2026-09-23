@@ -1,0 +1,7 @@
+medium_file_path = "medium/"
+output_file_path = "output/"
+community_graph_file_path = medium_file_path+"graph_to_community/"
+community_to_block = medium_file_path+"community_to_block/"
+# block_file_path = community_to_block+"block/"
+# community_node_mapping = community_to_block+"community_node/"
+parse_file_path = medium_file_path+"parse_data/"
